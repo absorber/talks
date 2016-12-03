@@ -1,3 +1,5 @@
+[Source](https://www.youtube.com/watch?v=4pEHfGKB-OE)
+
 # Spying on your programs with strace
 
 by Julia Evans <br>
@@ -108,12 +110,10 @@ NULL, NULL) = 512
 
 * strace all the things!
 * on OS X / Windows, try **sysdig**
-* Notes: [http://bit.ly/strace-notes](http://bit.ly/strace-notes)
+* Notes: https://gist.github.com/jvns/58cbd798a481a3f703fd
 
 [`twitter.com/b0rk`][twitter]  <br>
 [`jvns.ca`][website]  <br>
 
 [twitter]:  https://twitter.com/b0rk
 [website]: http://jvns.ca
-
-
